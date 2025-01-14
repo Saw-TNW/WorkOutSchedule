@@ -1,0 +1,103 @@
+body {
+    background-color: #F4F4F4;
+}
+
+nav {
+    background-color: #333333;
+    padding: 30px 50px;
+    
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+.nav-li {
+    margin: 0px 50px;
+    font-size: 18px;
+}
+
+.nav-li a {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.nav-li a:hover {
+    color: #FF7043;
+    text-decoration: underline;
+}
+
+.nav-li a:active {
+    font-size: 16px;
+}
+
+.schedule h1{
+    text-align: center;
+}
+
+.main-card-mon {
+    background-color: #FFD580;
+    padding: 20px;
+    width: 500px;
+    margin: auto;
+}
+
+.main-card-tue {
+    background-color: #C8FACD;
+    padding: 20px;
+    width: 500px;
+    margin: auto;
+}
+
+.main-card-wed {
+    background-color: #87CEFA;
+    padding: 20px;
+    width: 500px;
+    height: 300px;
+    margin: auto;
+}
+.main-card-wed h3 {
+    text-align: center;
+}
+
+.main-card-thurs {
+    background-color: #E6E6FA;
+    padding: 20px;
+    width: 500px;
+    margin: auto;
+}
+
+.main-card-fri {
+    background-color: #FFFACD;
+    padding: 20px;
+    width: 500px;
+    height: 300px;
+    margin: auto;
+}
+
+.main-card-sat {
+    background-color: #FFDAB9;
+    padding: 20px;
+    width: 500px;
+    height: 300px;
+    margin: auto;
+}
+
+.main-card-sun {
+    background-color: #BDF5F0;
+    padding: 20px;
+    width: 500px;
+    height: 300px;
+    margin: auto;
+}
+
+.main-card-sun h3 {
+    text-align: center;
+}
+
+.activities li {
+    font-size: 18px;
+    line-height: 1.6;
+}
